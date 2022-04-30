@@ -7,14 +7,11 @@ Simple web server wrapper without rebar3
 $ erl
 ```
 ```
-
 $ c(<modulename>).
 ```
-
 ```
 $ inets:start().
 ```
-
 ```
 $ api:start().
 ```
